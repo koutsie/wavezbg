@@ -59,6 +59,20 @@ There are also the [Github Discussions](https://github.com/koutsie/wavezbg/discu
 
 <sub>Wanna donate for some reason?</sub><br><sub>https://koutsie.itch.io/</sub>
 
+<details>
+<summary><b>Cryptos</b></summary>
+
+| Asset | QR (SVG) | Info |
+| :--- | :---: | :--- |
+| **XMR** | <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&format=svg&color=ff8c00&bgcolor=000000&data=monero%3A4AXDj48RpRFYHgmE4tGmgMSTWnB6LY7pMUVJpaKKJFLRDbZEvZYukVgevGNt8gtGAu4fHBJoue2zi1sHjYLErCrnCJ3JHjr%3Ftx_description%3DFrom%2520Github%26tx_amount%3D0.01712escription%3DFrom%2520Github%26tx_amount%3D0.01712" width="120" /> | Chain: Monero<br>Wallet: `4AXDj48RpRFYHgmE4tGmgMSTWnB6LY7pMUVJpaKKJFLRDbZEvZYukVgevGNt8gtGAu4fHBJoue2zi1sHjYLErCrnCJ3JHjr` |
+| **SOL** | <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&format=svg&color=ff8c00&bgcolor=000000&data=solana%3ACnHy1JGHqitqtKdbnpxfupRb11EWrLDoTbZV83BGncEW" width="120" /> | Chain: Solana<br>Wallet: `CnHy1JGHqitqtKdbnpxfupRb11EWrLDoTbZV83BGncEW` |
+| **ETH** | <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&format=svg&color=ff8c00&bgcolor=000000&data=ethereum%3A0x634dc78D0FF56e17830135dBeFaE40D767dBCB93" width="120" /> | Chain: Ethereum (Mainnet)<br>Wallet: `0x634dc78D0FF56e17830135dBeFaE40D767dBCB93` |
+| **BTC** | <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&format=svg&color=ff8c00&bgcolor=000000&data=bitcoin%3Abc1pakm0f5wvr3e76uszmft4c8m8x8sjjzye8yx7ws0yfqtg5v5rmw7slucssw" width="120" /> | Chain: Bitcoin (Taproot)<br>Wallet: `bc1pakm0f5wvr3e76uszmft4c8m8x8sjjzye8yx7ws0yfqtg5v5rmw7slucssw` |
+| **MATIC** | <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&format=svg&color=ff8c00&bgcolor=000000&data=polygon%3A0x634dc78D0FF56e17830135dBeFaE40D767dBCB93" width="120" /> | Chain: Polygon PoS<br>Wallet: `0x634dc78D0FF56e17830135dBeFaE40D767dBCB93` |
+
+</details>
+
+
 > <sub>quadruple -- Yesterday at 23:06</sub><br>
 > <sub>nic and food</sub><br>
 > <sub>thats all i can do</sub>
