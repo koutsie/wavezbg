@@ -49,7 +49,7 @@ Bagieta for inspiring me to do this with their PAF reversal efforts.
 [@MrMario2011](https://github.com/MrMario2011) ([YT](https://www.youtube.com/c/MrMario2011/videos)) for
 helping with GO support and testing!
 
-TotalKommando ([YT](https://www.youtube.com/@TotalKommando)) for helping with 1K support and testing!
+[@TotalKommando](https://github.com/TotalKommando) ([YT](https://www.youtube.com/@TotalKommando)) for helping with 1K support and testing!
 
 And of course *YOU* for using the plugin!
 
