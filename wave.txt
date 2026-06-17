@@ -1,42 +1,43 @@
 # wavezbg - 2026 Koutsie
 # https://kouts.the-sauna.icu/
+# https://koutsie.github.io/wavezbg/
 # Place this file in ms0:/seplugins/wave.txt
 # or if on a Go ef0:/seplugins/wave.txt
 
 # Format: [Month 1-34] = [Colour 1] [Colour 2] [Colour 3]
 # Colour 2 nor 3 are *not required*.
 
-1 = #B84242
+1 = #ce4a4a
 2 = #363636
 3 = #26663D
 4 = #523A6E #2E1F47
 5 = #2A4D80
 6 = #804A1A
-7 = #1C6B78 #143D45
+7 = #248a9a #0d282d
 8 = #5C2E4D
 9 = #801A1A
 10 = #385C22
 11 = #423359
-12 = #4A4A4A
+12 = #000000 #634200 #000000
 13 = #BD337C
 14 = #249961
 15 = #E65C00 #D93600 #CC0000
 16 = #A838A8
 17 = #3BB36C
-18 = #D9541C
+18 = #d9541c
 19 = #29A3A3 #1A5C5C
 20 = #6B24A3
-21 = #33CC33 #99CC00 #CCCC00
+21 = #1b6d1b #6b8f00 #797900
 22 = #CC244D
 23 = #3399FF #1A4C80 #000000
-24 = #B82982
-25 = #29B84D
+24 = #3aaf56 #550000
+25 = #550000
 26 = #E65500 #802B00
 27 = #D42480
 28 = #000000 #521A38
 29 = #1C3D5C
-30 = #663817
+30 = #663817 #000000 #000000
 31 = #000000 #243847 #3D5C78
-32 = #A83366 #704D8A #245C99
+32 = #A83366 #704D8A #1e4e81
 33 = #428F49 #666666 #1A1A1A
-34 = #57BAD9 #DB9EB3 #D9D9D9
+34 = #499db6 #986e7c #838383
