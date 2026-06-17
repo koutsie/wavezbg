@@ -25,7 +25,10 @@ HTML colour codes you want.
 
 Or use the [web editor](https://koutsie.github.io/wavezbg/)
 
+
 If you fuck up, a wavezbg_ERROR.txt will be generated.
+
+NOTE: Remember to delete the **wavez_cache** folder before rebooting to regenerate with new waves!
 
 ## Known issues
 
