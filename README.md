@@ -35,6 +35,9 @@ No firmware other than 6.61 is supported.
 
 I only test and support ARK, if you're on LE/PRO(-C) etc you're outta luck.
 
+**Update**: Highly recommended to try with ARK-5 - I've not tested with ARK-5, see:
+https://github.com/koutsie/wavezbg/issues/2#issuecomment-4726630859
+
 Also, no warranties, guarantees etc given. You're on your own.
 
 ## Credits
