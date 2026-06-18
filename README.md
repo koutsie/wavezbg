@@ -83,13 +83,8 @@ There are also the [Github Discussions](https://github.com/koutsie/wavezbg/discu
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=koutsie%2Fwavezbg&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=koutsie/wavezbg&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=koutsie/wavezbg&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=koutsie/wavezbg&type=date&legend=bottom-right" />
- </picture>
-</a>
+
+[![Star History Chart](https://api.star-history.com/chart?repos=koutsie/wavezbg&type=date&legend=bottom-right)](https://www.star-history.com/?repos=koutsie%2Fwavezbg&type=date&legend=bottom-right)
 
 
 > <sub>quadruple -- Yesterday at 23:06</sub><br>
