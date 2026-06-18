@@ -1,11 +1,13 @@
 
-![collage](https://github.com/user-attachments/assets/e3e01cb8-1b67-43dc-be75-d7058b4aaca5)
+![collage](https://github.com/user-attachments/assets/e3e01cb8-1b67-43dc-be75-d7058b4aaca5) 
 
 # wavezbg
 
 Custom XMB Waves for the PSP
 
 [Kommunity Post](https://www.komstation.com/kommunity/space/psp/post/psp-xmb-custom-waves)  |  [Komstation Release Page](https://www.komstation.com/downloads/wavezbg-custom-xmb-colors/)
+
+[![CodeFactor](https://www.codefactor.io/repository/github/koutsie/wavezbg/badge/master)](https://www.codefactor.io/repository/github/koutsie/wavezbg/overview/master)
 
 # Installation
 
