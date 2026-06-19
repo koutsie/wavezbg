@@ -1,4 +1,3 @@
-
 ![collage](https://github.com/user-attachments/assets/e3e01cb8-1b67-43dc-be75-d7058b4aaca5) 
 
 # wavezbg
@@ -85,8 +84,13 @@ There are also the [Github Discussions](https://github.com/koutsie/wavezbg/discu
 
 
 [![Star History Chart](https://api.star-history.com/chart?repos=koutsie/wavezbg&type=date&legend=bottom-right)](https://www.star-history.com/?repos=koutsie%2Fwavezbg&type=date&legend=bottom-right)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkoutsie%2Fwavezbg.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkoutsie%2Fwavezbg?ref=badge_shield)
 
 
 > <sub>quadruple -- Yesterday at 23:06</sub><br>
 > <sub>nic and food</sub><br>
 > <sub>thats all i can do</sub>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkoutsie%2Fwavezbg.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkoutsie%2Fwavezbg?ref=badge_large)
